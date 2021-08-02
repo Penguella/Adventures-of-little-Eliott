@@ -1,0 +1,9 @@
+﻿  Allies.cpp
+  Ending.cpp
+  Enemies.cpp
+  Items.cpp
+  Main.cpp
+C:\Users\Mihaela\Desktop\Adventures-of-little-Eliott\Main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  AdventuresOfLittleEliott.vcxproj -> C:\Users\Mihaela\Desktop\Adventures-of-little-Eliott\x64\Debug\AdventuresOfLittleEliott.exe

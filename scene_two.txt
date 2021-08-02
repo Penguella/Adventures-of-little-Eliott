@@ -1,0 +1,10 @@
+	On your way to town, you feel really hungry. The supplies are already gone and you know you'll starve to death before reaching the town. A kind woman approaches you and wants to share her food with you.
+You don't know her and have quite a hard time trusting strangers, but at the same time the buns in her basket look so tasty! On the other hand, you notice some berries nearby. They look edible, but it's really hard to say. 
+
+	In this situation you decide the best option would be...? 
+
+	1) Accept the lady's buns. 
+
+	2) Refuse her and eat the berries.
+ 
+	3) Pray you won't starve to death.   

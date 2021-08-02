@@ -1,0 +1,10 @@
+	You decide today is the day you begin your quest. You feel completely unprepared, with no money or allies, but your situation won't improve anyhow if you stay in the village and do nothing.
+However, you are well aware you have huge chances to die, given your current stats. 
+
+	So you decide to...? 
+	
+	1) Leave the village, but only when you are 100% sure you are ready 
+
+	2) Ask the Elders to pray for your safety
+
+	3) Just leave the village and you'll figure out something later  

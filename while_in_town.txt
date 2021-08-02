@@ -1,0 +1,18 @@
+ 
+	You are in town. You have no idea what to do next, because the town is so much bigger than your small town. While waiting for your drink at the local inn, you overhear two people talking about how nice it would be if an aspiring hero showed up in town.
+You tell them you are interested, so they offer you the chance to go on a real adventure in the nearby forest. The innkeeper warns you there are scarry creatures out there, but if you're in search for some quick cash with no risks, he could help you.     
+He also mentions some places where you can spend your money wisely for your hero journey. 
+ 
+	There are many things one can do in town, what do you think?
+
+	1) Do chores around the town for some quick cash
+
+	2) Go on an adventure	
+
+	3) Sell an item 
+
+	4) Take some combat classes ( -100 gold per class)
+
+	5) Advance ( Recommended before leaving: at least lvl 5 and 2000 gold )
+
+
